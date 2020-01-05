@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Calistoga', cursive;
+    
+}
+header {
+    color: rgb(80, 47, 5);
+    text-align: center;
+}
+section {
+    background: lightsalmon;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+    text-align: center;
+}
+footer {
+    color: rgb(80, 47, 5);
+    text-align: center;
+}
